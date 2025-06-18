@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Meera Chavan!
+# 👋 Hi there, I'm Meera Chavan!....
 
 🌟 I am an aspiring Full Stack Java Developer who loves learning new skills and building real-world projects. I enjoy solving problems, helping others, and expressing creativity through code and art.
 

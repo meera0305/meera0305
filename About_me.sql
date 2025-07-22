@@ -19,3 +19,4 @@ INSERT INTO meera_info (category, detail) VALUES
 ('Goals', 'Become Full Stack Developer, Support Family, Help Poor'),
 ('GitHub', 'Username: meera0305, Repos: mysql-practice, JDBC-MySQL-Demo'),
 ('Quote', 'If I change myself first, I can change everything.');
+

@@ -32,7 +32,7 @@
 - 💼 LinkedIn: www.linkedin.com/in/meera-chavan-49327a307
 - 💻 GitHub:  https://github.com/meera0305/meera0305
 - 🧭 https://profile.indeed.com/p/meerac-dhhbg37
--   https://github.com/meera0305/My_Professional_Porfolio_Website.git
+
 
 > Thank you for visiting my profile! Let's connect and grow together. 🌱
 

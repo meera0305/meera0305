@@ -13,7 +13,7 @@ public class MeeraInfo {
         System.out.println("\n🎓 Education:");
         System.out.println("10th Percentage: 86.20%");
         System.out.println("12th Percentage: 86.67%");
-        System.out.println("Studying       : MCA");
+        System.out.println("Studying       : MCA");  
 
         // Technical Skills
         System.out.println("\n💻 Technical Skills:");

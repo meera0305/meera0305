@@ -15,7 +15,7 @@
 ## 📚 Projects
 - 📱 Girls' Security System (Android App + ML + Flask)
 - 📘 Library Management System (Java + MySQL)
-- 🌍 Web pages using HTML and CSS
+- 🌍 Web pages using HTML and CSS  
 
 ---
 

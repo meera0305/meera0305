@@ -4,7 +4,7 @@ USE MeeraDB;
 CREATE TABLE IF NOT EXISTS meera_info (
     id INT PRIMARY KEY AUTO_INCREMENT,
     category VARCHAR(50),
-    detail TEXT
+    detail TEXT  
 );
 
 INSERT INTO meera_info (category, detail) VALUES

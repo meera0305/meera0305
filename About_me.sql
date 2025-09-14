@@ -17,6 +17,6 @@ INSERT INTO meera_info (category, detail) VALUES
 ('Projects', 'Library Management System, Girls Security App, JDBC MySQL Demo'),
 ('Interests', 'Singing, Drawing, Mehndi, Comedy Shows, Travelling'),
 ('Goals', 'Become Full Stack Developer, Support Family, Help Poor'),
-('GitHub', 'Username: meera0305, Repos: mysql-practice, JDBC-MySQL-Demo'),
+('GitHub', 'Username: meera0305, Repos: mysql-practice, JDBC-MySQL-Demo'),   
 ('Quote', 'If I change myself first, I can change everything.');
 

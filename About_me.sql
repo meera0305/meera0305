@@ -9,7 +9,7 @@ CREATE TABLE IF NOT EXISTS meera_info (
 
 INSERT INTO meera_info (category, detail) VALUES
 ('Name', 'Meera Chavan'),        
-('City', 'India'),
+('City', 'India'),  
 ('Strength', 'Honesty and Responsibility'),
 ('Belief', 'Believes in self, not in superpowers'),
 ('Education', '10th: 86.20%, 12th: 86.67%, MCA Student'),
